@@ -1,0 +1,20 @@
+/*body{
+    background-color:red;
+}*/
+.add{
+    background-color:rgb(75, 109, 5);
+}
+.Print{
+    background-color: rgb(109, 5, 5)
+}
+#cv-tempelate{
+    display:none;
+}
+.myimg{
+/*    border: 10px solid red;*/
+    border-radius: 50%;
+    width:200px;
+}
+.background{
+    background-color:rgb(234, 255, 0);
+}
